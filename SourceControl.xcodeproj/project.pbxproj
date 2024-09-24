@@ -14,6 +14,7 @@
 		67C648F62CA2F7CD00B0FC4A /* SourceControlTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C648F52CA2F7CD00B0FC4A /* SourceControlTests.swift */; };
 		67C649002CA2F7CD00B0FC4A /* SourceControlUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C648FF2CA2F7CD00B0FC4A /* SourceControlUITests.swift */; };
 		67C649022CA2F7CD00B0FC4A /* SourceControlUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C649012CA2F7CD00B0FC4A /* SourceControlUITestsLaunchTests.swift */; };
+		67C6490F2CA2F98C00B0FC4A /* AdditionalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C6490E2CA2F98C00B0FC4A /* AdditionalView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		67C648FB2CA2F7CD00B0FC4A /* SourceControlUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SourceControlUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		67C648FF2CA2F7CD00B0FC4A /* SourceControlUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceControlUITests.swift; sourceTree = "<group>"; };
 		67C649012CA2F7CD00B0FC4A /* SourceControlUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceControlUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		67C6490E2CA2F98C00B0FC4A /* AdditionalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdditionalView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				67C648E72CA2F7CD00B0FC4A /* Assets.xcassets */,
 				67C648E92CA2F7CD00B0FC4A /* SourceControl.entitlements */,
 				67C648EA2CA2F7CD00B0FC4A /* Preview Content */,
+				67C6490E2CA2F98C00B0FC4A /* AdditionalView.swift */,
 			);
 			path = SourceControl;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				67C648E62CA2F7CC00B0FC4A /* ContentView.swift in Sources */,
 				67C648E42CA2F7CC00B0FC4A /* SourceControlApp.swift in Sources */,
+				67C6490F2CA2F98C00B0FC4A /* AdditionalView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
