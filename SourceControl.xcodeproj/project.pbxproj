@@ -99,10 +99,10 @@
 			children = (
 				67C648E32CA2F7CC00B0FC4A /* SourceControlApp.swift */,
 				67C648E52CA2F7CC00B0FC4A /* ContentView.swift */,
+				67C6490E2CA2F98C00B0FC4A /* AdditionalView.swift */,
 				67C648E72CA2F7CD00B0FC4A /* Assets.xcassets */,
 				67C648E92CA2F7CD00B0FC4A /* SourceControl.entitlements */,
 				67C648EA2CA2F7CD00B0FC4A /* Preview Content */,
-				67C6490E2CA2F98C00B0FC4A /* AdditionalView.swift */,
 			);
 			path = SourceControl;
 			sourceTree = "<group>";
