@@ -10,5 +10,6 @@ import Foundation
 enum Add{
     case South
     case east
+    case west
 }
 
