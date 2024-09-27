@@ -21,6 +21,11 @@ struct ContentView: View {
             Text("2nd")
             Text("5nd")
             Text("Sourcetree")
+            
+            
+            VStack{
+                Text("Modular")
+            }
         }
         .padding()
     }
