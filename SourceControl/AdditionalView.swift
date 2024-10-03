@@ -11,5 +11,6 @@ enum Add{
     case South
     case aa
     case Rebase
+    case Rebase12
 }
 
