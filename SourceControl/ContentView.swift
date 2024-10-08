@@ -22,6 +22,7 @@ struct ContentView: View {
             Text("2nd")
             Text("5nd")
             Text("Sourcetree")
+            Text("Rebase")
         }
         .padding()
     }
