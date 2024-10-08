@@ -10,5 +10,7 @@ import Foundation
 enum Add{
     case South
     case aa
+case renote push
+
 }
 
