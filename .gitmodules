@@ -1,0 +1,3 @@
+[submodule "SharedStuff"]
+	path = SharedStuff
+	url = https://github.com/Jasmeet155061/SourceControlDemo_Shared.git
