@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		67399E8A2CB97B2700663A14 /* LoginPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67399E892CB97B2700663A14 /* LoginPage.swift */; };
 		67C648E42CA2F7CC00B0FC4A /* SourceControlApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C648E32CA2F7CC00B0FC4A /* SourceControlApp.swift */; };
 		67C648E62CA2F7CC00B0FC4A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C648E52CA2F7CC00B0FC4A /* ContentView.swift */; };
 		67C648E82CA2F7CD00B0FC4A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67C648E72CA2F7CD00B0FC4A /* Assets.xcassets */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		67399E892CB97B2700663A14 /* LoginPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginPage.swift; sourceTree = "<group>"; };
 		67C648E02CA2F7CC00B0FC4A /* SourceControl.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SourceControl.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		67C648E32CA2F7CC00B0FC4A /* SourceControlApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceControlApp.swift; sourceTree = "<group>"; };
 		67C648E52CA2F7CC00B0FC4A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				67C648E72CA2F7CD00B0FC4A /* Assets.xcassets */,
 				67C648E92CA2F7CD00B0FC4A /* SourceControl.entitlements */,
 				67C648EA2CA2F7CD00B0FC4A /* Preview Content */,
+				67399E892CB97B2700663A14 /* LoginPage.swift */,
 			);
 			path = SourceControl;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				67399E8A2CB97B2700663A14 /* LoginPage.swift in Sources */,
 				67C648E62CA2F7CC00B0FC4A /* ContentView.swift in Sources */,
 				67C648E42CA2F7CC00B0FC4A /* SourceControlApp.swift in Sources */,
 				67C6490F2CA2F98C00B0FC4A /* AdditionalView.swift in Sources */,
